@@ -10,8 +10,8 @@ body, html {
 
 #bgVideo {
     position: fixed;
-    right: 100;
-    bottom: 100;
+    right: 0;
+    bottom: 0;
     min-width: 100%;
     min-height: 100%;
     object-fit: cover;
