@@ -38,7 +38,7 @@ header h1, .details h2 {
 }
 
 p1,p2,p3,p4,p5, .details p1,p2,p3,p4,p5 {
-    font-family: 'Imprint MT Shadow', cursive;
+    font-family: 'Imprint MT Shadow', bold;
   font-size: 1.3em;
     color: #0814ed;
 }
