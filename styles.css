@@ -12,11 +12,11 @@ body, html {
     position: fixed;
     right: 0;
     bottom: 0;
-    min-width: 10%;
-    min-height: 10%;
+    min-width: 100%;
+    min-height: 100%;
     object-fit: cover;
-    z-index: -5; /* matndan orqada turadi */
-    filter: brightness(0.5); /* qorong‘i qilib, matn aniq ko‘rinsin */
+    z-index: -1; /* matndan orqada turadi */
+    filter: brightness(1); /* qorong‘i qilib, matn aniq ko‘rinsin */
 }
 .invitation {
     width: 100%;
