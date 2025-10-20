@@ -16,7 +16,7 @@ body, html {
     min-height: 100%;
     object-fit: cover;
     z-index: -1; /* matndan orqada turadi */
-    filter: brightness(10); /* qorong‘i qilib, matn aniq ko‘rinsin */
+    filter: brightness(0.1); /* qorong‘i qilib, matn aniq ko‘rinsin */
 }
 .invitation {
     width: 100%;
